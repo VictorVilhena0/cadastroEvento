@@ -28,7 +28,7 @@ if (dia < 4 && mes <= 11 && ano <= 2021)
             }
             else
             {
-                console.log("Cadastro negado: idade " + (idadeUser) + " é menor (ou igual) a 18.")
+                console.log("Cadastro negado: idade é menor (ou igual) a 18.")
             }
         }
       else if (listaTotalPessoas >= 99)
